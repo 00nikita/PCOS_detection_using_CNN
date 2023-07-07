@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+# dataset for the project is in kaggle and the link for that is https://www.kaggle.com/datasets/anaghachoudhari/pcos-detection-using-ultrasound-images.
 import tensorflow as tf
 
 
